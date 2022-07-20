@@ -1,10 +1,10 @@
 import os
 import glob
 import json
+import datetime
 
 import psycopg2
 import pandas as pd
-import datetime
 from sql_queries import *
 
 
